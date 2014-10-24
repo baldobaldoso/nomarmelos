@@ -6,8 +6,8 @@
 // @include     http://77chan.org/b/*
 // @include     http://1500chan.org/b/*
 // @version     2.2.1
-// @homepage    https://greasyfork.org/scripts/5986-nomarmelos/code/NOMarmelos.user.js
-// @updateURL   https://greasyfork.org/scripts/5986-nomarmelos/code/NOMarmelos.user.js
+// @homepage    https://raw.githubusercontent.com/baldobaldoso/nomarmelos/master/Nomarmelos.js
+// @updateURL   hhttps://raw.githubusercontent.com/baldobaldoso/nomarmelos/master/Nomarmelos.js
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
 
 
