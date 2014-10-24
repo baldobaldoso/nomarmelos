@@ -5,7 +5,7 @@
 // @include     http://55ch.org/b/*
 // @include     http://77chan.org/b/*
 // @include     http://1500chan.org/b/*
-// @version     2.2.1
+// @version     2.2.2
 // @homepage    https://raw.githubusercontent.com/baldobaldoso/nomarmelos/master/Nomarmelos.user.js
 // @updateURL   hhttps://raw.githubusercontent.com/baldobaldoso/nomarmelos/master/Nomarmelos.user.js
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js
